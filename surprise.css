@@ -108,7 +108,7 @@ body {
 }
 
 #spiderHolder #string.grow {
-    animation: threadGrow 2s 1s infinite alternate;
+    animation: threadGrow 2s 5s infinite alternate;
 }
 
 
@@ -213,7 +213,7 @@ transform: scale(1.5);
 }
 
 #spider.drop {
-    animation: spiderBounce 2s 1s infinite alternate;
+    animation: spiderBounce 2s 5s infinite alternate;
 }
 
 
